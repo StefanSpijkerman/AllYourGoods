@@ -7,8 +7,11 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="Abstractions\Repositories\" />
       <Folder Include="Entities\" />
       <Folder Include="Interfaces\" />
+      <Folder Include="Models\Dto\" />
+      <Folder Include="Models\Requests\Responses\" />
     </ItemGroup>
 
 </Project>
